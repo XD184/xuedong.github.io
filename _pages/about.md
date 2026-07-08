@@ -49,9 +49,8 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
     <div style="margin-top: 8px;">
   We demonstrated stretched-pulse solitons in dispersion-managed fiber Kerr resonators enable shorter pulses than previously achieved in fiber Kerr   resonators. This approach offers a stable and versatile comb source that could support high-capacity optical communications.
-  <li> one follow up paper on detailed parameter study: 120-fs single-pulse generation from stretched-pulse fiber Kerr resonators     <div>
+  <li> one follow up paper on detailed parameter study: 120-fs single-pulse generation from stretched-pulse fiber Kerr resonators   
       <strong>Xue Dong</strong>, Zhiqiang Wang, William Renninger <em> Optics Letters 2022</em>
-    </div>
     </div>
 
   </div>
