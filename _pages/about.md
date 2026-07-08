@@ -84,7 +84,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-      A single-frequency laser enters a fiber ring cavity, generating a broad bandwidth comb of frequencies at the output that supports ultrashort femtosecond pulses.
+     High energy frequency comb generation, better high-capacity telecommunication systems
     </div>
 
   </div>
