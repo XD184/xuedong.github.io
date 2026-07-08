@@ -18,7 +18,7 @@ Research Highlight
 
   <!-- Left image -->
   <div style="width: 150px; flex-shrink: 0;">
-    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched-pulse-soliton-Kerr-resonator.jpg"
+    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched_pulse.jpg"
          alt="Frequency comb generation"
          style="width: 150px; height: auto;">
   </div>
