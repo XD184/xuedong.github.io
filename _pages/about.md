@@ -48,7 +48,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-      A single-frequency laser enters a fiber ring cavity, generating a broad bandwidth comb of frequencies at the output that supports ultrashort femtosecond pulses.
+  We demonstrated stretched-pulse solitons in dispersion-managed fiber Kerr resonators enable shorter pulses than previously achieved in fiber Kerr   resonators. This approach offers a stable and versatile comb source that could support high-capacity optical communications, wavelength-division multiplexing, and advanced signal processing.
     </div>
 
   </div>
