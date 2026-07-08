@@ -10,10 +10,6 @@ redirect_from:
 I obtained my Ph.D. at University of Rochester where I advised by Professor [William Renninger](https://labsites.rochester.edu/renninger/) working on novel soliton and frequency comb generation using fiber ring resoantors. and collaborate with Professor [Jaime Cardenas](https://www.cardenaslab.com/) to apply the novel design to Si3N4 microresonators to generate high energy frequency combs. After my Ph.D. I spend a year in Laboratoire Kastler Brossel located at physics department of Ecole Normale Superieure working with Sylvain Gigan on optical computing and hardware based AI accelerator. Now I am a postdoc researcher at University of California, Berkeley advised by Professor Guanghan Meng and collaborated with Professor Mengjie Yu to explore the frequency comb and femtosecond pulse genearted using thin film lithium noibate and apply it to novel vision.
 
 
-
-Research Highlight
-======
-
 <h2 style="font-size: 24px; font-weight: 400; margin-top: 35px; margin-bottom: 25px;">
   Research highlights
   <a href="{{ site.baseurl }}/publications/" style="font-size: 22px; font-weight: 400; margin-left: 12px;">See more</a>
@@ -22,14 +18,14 @@ Research Highlight
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
   <div style="width: 140px; flex-shrink: 0;">
-    <img src="{{ site.baseurl }}/images/stretched-pulse-soliton-Kerr-resonator.jpg"
+    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched.jpg"
          alt="Frequency comb generation"
          style="width: 140px; height: auto;">
   </div>
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="#" style="font-size: 18px; font-weight: bold;">
+    <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902" style="font-size: 18px; font-weight: bold;">
       Stretched-pulse soliton Kerr resonators
     </a>
 
@@ -42,7 +38,7 @@ Research Highlight
     </div>
 
     <div>
-      (<a href="#">in the news</a>)
+      (<a href="[#](https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/)">in the news</a>)
     </div>
 
     <div style="margin-top: 8px;">
@@ -51,47 +47,8 @@ Research Highlight
 
   </div>
 
-  <div style="position: absolute; right: 0; top: 0; background-color: #d33; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-size: 14px;">
-    New!
-  </div>
-
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
-
-  <!-- Left image -->
-  <div style="width: 150px; flex-shrink: 0;">
-    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched.jpg"
-         alt="Frequency comb generation"
-         style="width: 150px; height: auto;">
-  </div>
-  
-  <!-- Right text -->
-  <div style="flex: 1; font-size: 18px; line-height: 1.5;">
-
-    <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902" style="font-size: 20px; font-weight: bold;">
-      Stretched-pulse soliton Kerr resonators 
-    </a>
-
-    <div>
-      <strong>Xue Dong</strong>, Qian Yang, Chris Spiess, Victor, William Renninger
-    </div>
-
-    <div>
-      <em>Physics Review Letters 2020 </em>
-    </div>
-
-    <div>
-      (<a href="https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/">in the news</a>)
-    </div>
-
-    <div style="margin-top: 8px;">
-      a single frequency laser enters a fiber ring cavity, generating a broad bandwidth comb of frequencies at the output that supports ultrashort femtosecond pulses.
-    </div>
-
-  </div>
-
-</div>
 
 
 
