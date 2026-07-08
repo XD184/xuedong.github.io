@@ -96,7 +96,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
   <div style="width: 140px; flex-shrink: 0;">
-    <img src="images/microresonators.jpg"
+    <img src="images/microresonators.png"
          alt="Frequency comb generation"
          style="width: 140px; height: auto;">
   </div>
@@ -123,6 +123,41 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
   </div>
 
 </div>
+
+
+
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+
+  <div style="width: 140px; flex-shrink: 0;">
+    <img src="images/microresonators.png"
+         alt="Frequency comb generation"
+         style="width: 140px; height: auto;">
+  </div>
+
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+    <a style="font-size: 18px; font-weight: bold;">
+      Optical Computing with Spectrally Multiplexed Features in Complex Media
+
+    </a>
+
+    <div>
+     <strong>Xue Dong</strong>, Kai Lion, Fei Xia,Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gian
+    </div>
+
+    <div>
+      <em>CLEO 2026</em>
+    </div>
+
+    <div style="margin-top: 8px;">
+  Multiwavelength optical computing
+
+    </div>
+
+  </div>
+
+</div>
+
 
 
 
