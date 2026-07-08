@@ -9,14 +9,11 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
+  - title: "About"
+    url: https://xd184.github.io/xuedong.github.io//
     
   - title: "Publications"
-    url: /publications/  
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/    
     
   - title: "Portfolio"
     url: /portfolio/
