@@ -13,7 +13,54 @@ I obtained my Ph.D. at University of Rochester where I advised by Professor [Wil
 
 Research Highlight
 ======
-![Frequency comb generation]({{ site.baseurl }}/images/stretched-pulse-soliton-Kerr-resonator.jpg)
+
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+
+  <!-- Left image -->
+  <div style="width: 150px; flex-shrink: 0;">
+    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched-pulse-soliton-Kerr-resonator.jpg"
+         alt="Frequency comb generation"
+         style="width: 150px; height: auto;">
+  </div>
+
+  <!-- Right text -->
+  <div style="flex: 1; font-size: 18px; line-height: 1.5;">
+
+    <a href="#" style="font-size: 20px; font-weight: bold;">
+      Stretched-pulse soliton Kerr resonators
+    </a>
+
+    <div>
+      <strong>Xue Dong</strong>, William Renninger
+    </div>
+
+    <div>
+      <em>Journal / Conference Name</em>
+    </div>
+
+    <div>
+      (<a href="#">website</a>) /
+      (<a href="#">paper</a>) /
+      (<a href="#">arXiv</a>) /
+      (<a href="#">code</a>)
+    </div>
+
+    <div style="margin-top: 8px;">
+      We investigate novel soliton and frequency-comb generation using fiber ring resonators
+      and Si<sub>3</sub>N<sub>4</sub> microresonators, enabling high-energy frequency combs
+      for advanced photonic applications.
+    </div>
+
+  </div>
+
+  <!-- New badge -->
+  <div style="position: absolute; right: 0; top: 0; background-color: #d33; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold;">
+    New!
+  </div>
+
+</div>
+
+
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
