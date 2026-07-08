@@ -14,6 +14,49 @@ I obtained my Ph.D. at University of Rochester where I advised by Professor [Wil
 Research Highlight
 ======
 
+<h2 style="font-size: 24px; font-weight: 400; margin-top: 35px; margin-bottom: 25px;">
+  Research highlights
+  <a href="{{ site.baseurl }}/publications/" style="font-size: 22px; font-weight: 400; margin-left: 12px;">See more</a>
+</h2>
+
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+
+  <div style="width: 140px; flex-shrink: 0;">
+    <img src="{{ site.baseurl }}/images/stretched-pulse-soliton-Kerr-resonator.jpg"
+         alt="Frequency comb generation"
+         style="width: 140px; height: auto;">
+  </div>
+
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+    <a href="#" style="font-size: 18px; font-weight: bold;">
+      Stretched-pulse soliton Kerr resonators
+    </a>
+
+    <div>
+      <strong>Xue Dong</strong>, Qian Yang, Chris Spiess, Victor, William Renninger
+    </div>
+
+    <div>
+      <em>Physics Review Letters 2020</em>
+    </div>
+
+    <div>
+      (<a href="#">in the news</a>)
+    </div>
+
+    <div style="margin-top: 8px;">
+      A single-frequency laser enters a fiber ring cavity, generating a broad bandwidth comb of frequencies at the output that supports ultrashort femtosecond pulses.
+    </div>
+
+  </div>
+
+  <div style="position: absolute; right: 0; top: 0; background-color: #d33; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-size: 14px;">
+    New!
+  </div>
+
+</div>
+
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
   <!-- Left image -->
@@ -46,11 +89,6 @@ Research Highlight
       a single frequency laser enters a fiber ring cavity, generating a broad bandwidth comb of frequencies at the output that supports ultrashort femtosecond pulses.
     </div>
 
-  </div>
-
-  <!-- New badge -->
-  <div style="position: absolute; right: 0; top: 0; background-color: #d33; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold;">
-    New!
   </div>
 
 </div>
