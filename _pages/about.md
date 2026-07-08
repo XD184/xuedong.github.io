@@ -146,7 +146,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div>
-      <em>CLEO 2026</em>
+      <em>ArXiv 2025</em>
     </div>
 
     <div style="margin-top: 8px;">
