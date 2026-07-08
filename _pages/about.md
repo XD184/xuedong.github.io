@@ -48,10 +48,8 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-  We demonstrated stretched-pulse solitons in dispersion-managed fiber Kerr resonators enable shorter pulses than previously achieved in fiber Kerr   resonators. This approach offers a stable and versatile comb source that could support high-capacity optical communications.
+    We demonstrated stretched-pulse solitons in dispersion-managed fiber Kerr resonators enable shorter pulses than previously achieved in fiber Kerr   resonators. This approach offers a stable and versatile comb source that could support high-capacity optical communications.
    </div>
-
-   
 
   </div>
 
