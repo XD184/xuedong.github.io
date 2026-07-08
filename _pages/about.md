@@ -160,4 +160,26 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
 
 
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
+  <div style="width: 140px; flex-shrink: 0;">
+    <img src="images/TFLN.jpg"
+         alt="Frequency comb generation"
+         style="width: 140px; height: auto;">
+  </div>
+
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+    <a style="font-size: 18px; font-weight: bold;">
+      Thin film lithium niobate (on going project...)
+
+    </a>
+
+    <div style="margin-top: 8px;">
+    fiber to Thin film lithium niobate packaging
+
+    </div>
+
+  </div>
+
+</div>
