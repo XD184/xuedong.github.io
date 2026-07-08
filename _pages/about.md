@@ -21,7 +21,7 @@ I obtained my Ph.D. at University of Rochester where I advised by Professor [Wil
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
   <div style="width: 140px; flex-shrink: 0;">
-    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched.jpg"
+    <img src="images/stretched.jpg"
          alt="Frequency comb generation"
          style="width: 140px; height: auto;">
   </div>
