@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. at University of Rochester where I advised by Professor [William Renninger](https://labsites.rochester.edu/renninger/) working on novel soliton and frequency comb generation using fiber ring resoantors. and collaborate with Professor [Jaime Cardenas](https://www.cardenaslab.com/) to apply the novel design to Si3N4 microresonators to generate high energy frequency combs. After my Ph.D. I spend a year in Laboratoire Kastler Brossel located at physics department of Ecole Normale Superieure working with Professor [Sylvain Gigan](https://www.lkb.fr/pico/about-the-team/people/sylvain-gigan/) on optical computing and hardware based AI accelerator where I won the seal of excellence Marie Curie award. Now I am a postdoc researcher at University of California, Berkeley advised by Professor [Guanghan Meng](https://guanghanmeng.com/) and collaborated with Professor [Mengjie Yu](https://mengjielab.berkeley.edu/) to explore the frequency comb and femtosecond pulse genearted using thin film lithium noibate and apply it to novel vision.  
+
+
+
+
+I obtained my Ph.D. from the University of Rochester, where I was advised by Professor [William Renninger](https://labsites.rochester.edu/renninger/) My doctoral research focused on novel soliton and frequency-comb generation using fiber ring resonators, and I collaborated with Professor [Jaime Cardenas](https://www.cardenaslab.com/) to apply this design to Si3N4 microresonators for high-energy frequency-comb generation. After my Ph.D., I spent a year at Laboratoire Kastler Brossel in the Physics Department of École Normale Supérieure, working with Professor [Sylvain Gigan](https://www.lkb.fr/pico/about-the-team/people/sylvain-gigan/) on optical computing and hardware-based AI accelerators. During this time, I received the Marie Curie Seal of Excellence Award. I am currently a postdoctoral researcher at the University of California, Berkeley, advised by Professor [Guanghan Meng](https://guanghanmeng.com/) and collaborating with Professor [Mengjie Yu](https://mengjielab.berkeley.edu/) My current research focuses on frequency-comb and femtosecond-pulse generation using thin-film lithium niobate, with applications in advanced vision technologies.  
 
 
 
