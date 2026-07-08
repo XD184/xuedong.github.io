@@ -18,20 +18,20 @@ Research Highlight
 
   <!-- Left image -->
   <div style="width: 150px; flex-shrink: 0;">
-    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched_pulse.jpg"
+    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched.jpg"
          alt="Frequency comb generation"
          style="width: 150px; height: auto;">
   </div>
-
+  
   <!-- Right text -->
   <div style="flex: 1; font-size: 18px; line-height: 1.5;">
 
-    <a href="#" style="font-size: 20px; font-weight: bold;">
-      Stretched-pulse soliton Kerr resonators
+    <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902" style="font-size: 20px; font-weight: bold;">
+      Stretched-pulse soliton Kerr resonators 
     </a>
 
     <div>
-      <strong>Xue Dong</strong>, William Renninger
+      <strong>Xue Dong</strong>, Qian Yang, Chris Spiess, Victor, William Renninger
     </div>
 
     <div>
@@ -39,14 +39,11 @@ Research Highlight
     </div>
 
     <div>
-      (<a href="#">paper</a>) /
-      (<a href="#">in the news</a>) /
+      (<a href="https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/">in the news</a>)
     </div>
 
     <div style="margin-top: 8px;">
-      We investigate novel soliton and frequency-comb generation using fiber ring resonators
-      and Si<sub>3</sub>N<sub>4</sub> microresonators, enabling high-energy frequency combs
-      for advanced photonic applications.
+      a single frequency laser enters a fiber ring cavity, generating a broad bandwidth comb of frequencies at the output that supports ultrashort femtosecond pulses.
     </div>
 
   </div>
