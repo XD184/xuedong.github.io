@@ -103,7 +103,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861" style="font-size: 18px; font-weight: bold;">
+    <a style="font-size: 18px; font-weight: bold;">
       High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Micro-resonators
     </a>
 
