@@ -6,8 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+    <div style="margin-top: 8px;">
+I obtained my Ph.D. at University of Rochester where I advised by Professor [William Renninger](https://labsites.rochester.edu/renninger/) working on novel soliton and frequency comb generation using fiber ring resoantors. and collaborate with Professor [Jaime Cardenas](https://www.cardenaslab.com/) to apply the novel design to Si3N4 microresonators to generate high energy frequency combs. After my Ph.D. I spend a year in Laboratoire Kastler Brossel located at physics department of Ecole Normale Superieure working with Sylvain Gigan on optical computing and hardware based AI accelerator. Now I am a postdoc researcher at University of California, Berkeley advised by Professor Guanghan Meng and collaborated with Professor Mengjie Yu to explore the frequency comb and femtosecond pulse genearted using thin film lithium noibate and apply it to novel vision.  
+    </div>
 
-I obtained my Ph.D. at University of Rochester where I advised by Professor [William Renninger](https://labsites.rochester.edu/renninger/) working on novel soliton and frequency comb generation using fiber ring resoantors. and collaborate with Professor [Jaime Cardenas](https://www.cardenaslab.com/) to apply the novel design to Si3N4 microresonators to generate high energy frequency combs. After my Ph.D. I spend a year in Laboratoire Kastler Brossel located at physics department of Ecole Normale Superieure working with Sylvain Gigan on optical computing and hardware based AI accelerator. Now I am a postdoc researcher at University of California, Berkeley advised by Professor Guanghan Meng and collaborated with Professor Mengjie Yu to explore the frequency comb and femtosecond pulse genearted using thin film lithium noibate and apply it to novel vision.
+
 
 
 <h2 style="font-size: 24px; font-weight: 400; margin-top: 35px; margin-bottom: 25px;">
