@@ -84,7 +84,8 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-     High energy frequency comb generation, better high-capacity telecommunication systems
+    Chirped dissipative solitons provide a new approach for generating ultrashort pulses and optical frequency combs in normal-dispersion resonators. Their ability to remain stable under strong dissipation and support higher pulse energies makes them attractive for practical telecommunication systems. This technique could enable simpler, robust comb sources for wavelength-division multiplexing, coherent communications, and high-speed optical signal processing.
+
     </div>
 
   </div>
