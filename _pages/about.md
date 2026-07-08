@@ -30,7 +30,7 @@ I obtained my Ph.D. at University of Rochester where I advised by Professor [Wil
     </a>
 
     <div>
-      <strong>Xue Dong</strong>, Qian Yang, Chris Spiess, Victor, William Renninger
+      <strong>Xue Dong</strong>, Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
     </div>
 
     <div>
@@ -39,6 +39,42 @@ I obtained my Ph.D. at University of Rochester where I advised by Professor [Wil
 
     <div>
       (<a href="[#](https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/)">in the news</a>)
+    </div>
+
+    <div style="margin-top: 8px;">
+      A single-frequency laser enters a fiber ring cavity, generating a broad bandwidth comb of frequencies at the output that supports ultrashort femtosecond pulses.
+    </div>
+
+  </div>
+
+</div>
+
+
+
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+
+  <div style="width: 140px; flex-shrink: 0;">
+    <img src="https://github.com/XD184/xuedong.github.io/edit/master/images/stretched.jpg"
+         alt="Frequency comb generation"
+         style="width: 140px; height: auto;">
+  </div>
+
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+    <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861" style="font-size: 18px; font-weight: bold;">
+      Chirped dissipative solitons in driven optical resonators
+    </a>
+
+    <div>
+      Christopher Spiess, Qian Yang, <strong>Xue Dong</strong>, Victor Bucklew, William Renninger
+    </div>
+
+    <div>
+      <em>Optica 2021</em>
+    </div>
+
+    <div>
+      (<a href="https://www.rochester.edu/newscenter/novel-chirped-pulses-defy-conventional-wisdom-484312/">in the news</a>)
     </div>
 
     <div style="margin-top: 8px;">
