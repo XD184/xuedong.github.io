@@ -35,14 +35,12 @@ Research Highlight
     </div>
 
     <div>
-      <em>Journal / Conference Name</em>
+      <em>Physics Review Letters 2020 </em>
     </div>
 
     <div>
-      (<a href="#">website</a>) /
       (<a href="#">paper</a>) /
-      (<a href="#">arXiv</a>) /
-      (<a href="#">code</a>)
+      (<a href="#">in the news</a>) /
     </div>
 
     <div style="margin-top: 8px;">
