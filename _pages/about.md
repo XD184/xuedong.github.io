@@ -93,5 +93,36 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 </div>
 
 
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+
+  <div style="width: 140px; flex-shrink: 0;">
+    <img src="images/microresonators.jpg"
+         alt="Frequency comb generation"
+         style="width: 140px; height: auto;">
+  </div>
+
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+    <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861" style="font-size: 18px; font-weight: bold;">
+      High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Micro-resonators
+    </a>
+
+    <div>
+      Zhenhua Guo, Sushant Kumar, <strong>Xue Dong</strong>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
+    </div>
+
+    <div>
+      <em>CLEO 2026</em>
+    </div>
+
+    <div style="margin-top: 8px;">
+  Design recipe for high energy Kerr soliton generation on micro-resonator. 
+
+    </div>
+
+  </div>
+
+</div>
+
 
 
