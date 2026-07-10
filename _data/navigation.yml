@@ -12,11 +12,11 @@ main:
   - title: "About"
     url: https://xd184.github.io/xuedong.github.io//
     
-  - title: "Publications"
-    url: /publications/    
+#  - title: "Publications"
+#    url: /publications/    
     
-  - title: "Photos"
-    url: /portfolio/
+#  - title: "Photos"
+#    url: /portfolio/
         
     
   # - title: "CV"
