@@ -15,8 +15,8 @@ main:
 #  - title: "Publications"
 #    url: /publications/    
     
-#  - title: "Photos"
-#    url: /portfolio/
+  - title: "Posts"
+    url: /portfolio/
         
     
   # - title: "CV"
