@@ -1,10 +1,12 @@
 ---
-title: "posts"
-permalink: /posts/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /posts/
+  - /posts.html
 ---
 
-{% include base_path %}
+
 
 PhD graduation
 
