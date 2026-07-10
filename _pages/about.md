@@ -81,9 +81,6 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
     <div>
       (<a href="https://www.rochester.edu/newscenter/novel-chirped-pulses-defy-conventional-wisdom-484312/">in the news</a>)
-    </div>
-
-     <div>
       (<a href="https://arxiv.org/abs/1906.12127">arXiv</a>)
     </div>
 
