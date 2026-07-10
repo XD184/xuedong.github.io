@@ -1,5 +1,5 @@
 ---
-excerpt: "PhD graduation<br/><img src='/images/phd.jpg'>"
+excerpt: "PhD graduation<br/><img src='images/phd.jpg'>"
 collection: portfolio
 ---
 
