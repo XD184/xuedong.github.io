@@ -18,7 +18,6 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
 <h2 style="font-size: 24px; font-weight: 400; margin-top: 35px; margin-bottom: 25px;">
   Research highlights
-  <a href="{{ site.baseurl }}/publications/" style="font-size: 22px; font-weight: 400; margin-left: 12px;">See more</a>
 </h2>
 
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
@@ -30,7 +29,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
   </div>
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
+    
     <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902" style="font-size: 18px; font-weight: bold;">
       Stretched-pulse soliton Kerr resonators
     </a>
@@ -123,7 +122,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
  
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-    <a style="font-size: 18px; font-weight: bold;">
+    <a style="margin-top: 18px; font-weight: bold;">
       High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Micro-resonators
     </a>
 
