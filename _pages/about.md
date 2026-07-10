@@ -191,12 +191,13 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
          style="width: 140px; height: auto;">
   </div>
 
- 
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-    <a style="font-size: 18px; font-weight: bold;">
-      Thin film lithium niobate for advanced vision (on going project...)
 
-    </a>
+   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+    <span style="font-size: 18px; font-weight: bold; color: black; text-decoration: none;">
+      Thin film lithium niobate for advanced vision (on going project...)
+    </span>
+
 
     <div style="margin-top: 8px;">
     fiber to Thin film lithium niobate packaging
