@@ -52,6 +52,13 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     We demonstrated stretched-pulse solitons in dispersion-managed fiber ring resonators. These pulses periodically stretch and compress as they propagate through the ring resonator, enabling stable operation with shorter pulse durations and higher energies than conventional solitons.
    </div>
 
+      <ul style="margin-top: 8px; margin-bottom: 0; font-size: 14px; padding-left: 20px;">
+    <li style="margin-bottom: 5px;">
+      Follow up paper: parameter study "120-fs single-pulse generation from stretched-pulse fiber Kerr resonators" <strong>Xue Dong</strong>, Zhiqiang Wang, William Renninger <em>Optics letters 2022 </em>   (<a href="https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-17-4443">paper</a>)
+    </li>
+
+  </ul>
+
   </div>
 
 </div>
@@ -93,7 +100,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
    <ul style="margin-top: 8px; margin-bottom: 0; font-size: 14px; padding-left: 20px;">
     <li style="margin-bottom: 5px;">
-      Follow up paper: parameter study (numerical) "Chirped-pulsed Kerr solitons in the Lugiato-Lefever equation with spectral filtering" <strong>Xue Dong</strong>, Christopher Spiess, Victor Bucklew, William Renninger <em>Physics review research 2021 </em>   (<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">paper</a>)
+      Follow up paper: parameter study (numerical) "Chirped-pulsed Kerr solitons in the Lugiato-Lefever equation with spectral filtering" <strong>Xue Dong</strong>, Christopher Spiess, Victor Bucklew, William Renninger <em>Physics Review Research 2021 </em>   (<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">paper</a>)
     </li>
         <li style="margin-bottom: 5px;">
       Follow up paper: parameter study (experimental) "Design and pulse-formation properties of chirped pulse Kerr solitons" <strong>Xue Dong</strong>,  William Renninger <em>JOSA B 2023 </em>  (<a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">paper</a>)
