@@ -117,7 +117,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-  Design recipe for high energy Kerr soliton generation on micro-resonator. 
+  Design recipe for high energy Kerr soliton and Kerr comb generation on Si3N4 micro-resonators. 
 
     </div>
 
