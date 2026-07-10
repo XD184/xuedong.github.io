@@ -121,10 +121,9 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
   </div>
 
  
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-    <a style="margin-top: 18px; font-weight: bold;">
-      High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Micro-resonators
-    </a>
+<div style="margin-top: 18px; font-size: 18px; font-weight: bold; color: black;">
+  High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Microresonators
+</div>
 
  <div> 
       Zhenhua Guo, Sushant Kumar, <strong>Xue Dong</strong>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
