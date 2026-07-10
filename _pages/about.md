@@ -83,6 +83,10 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
       (<a href="https://www.rochester.edu/newscenter/novel-chirped-pulses-defy-conventional-wisdom-484312/">in the news</a>)
     </div>
 
+     <div>
+      (<a href="https://arxiv.org/abs/1906.12127">arXiv</a>)
+    </div>
+
     <div style="margin-top: 8px;">
     Chirped dissipative solitons provide a new approach for generating ultrashort pulses and optical frequency combs in normal-dispersion resonators. Their ability to remain stable under strong dissipation and support higher pulse energies makes them attractive for practical telecommunication systems. This technique could enable simpler, robust comb sources for wavelength-division multiplexing, high-capacity telecommunication systems.
 
