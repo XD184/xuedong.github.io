@@ -129,7 +129,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-  Design guidelines and experimental validatation for high energy Kerr soliton and Kerr comb generation on Si3N4 micro-resonators. 
+   We present design guidelines and experimental validatation for high energy Kerr soliton and Kerr comb generation on Si3N4 micro-resonators. 
 
     </div>
 
