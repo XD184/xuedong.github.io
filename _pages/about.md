@@ -93,7 +93,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-    We present a new approach for generating ultrashort pulses and optical frequency combs in normal-dispersion resonators. These chirped solitons have ability to remain stable under strong dissipation and support higher pulse energies makes them attractive for practical telecommunication systems. This technique could enable simpler, robust comb sources for wavelength-division multiplexing, high-capacity telecommunication systems.
+    We present a new approach for generating ultrashort pulses and optical frequency combs in normal-dispersion resonators. These chirped solitons have ability to remain stable under strong dissipation and support higher pulse energies.
 
     </div>
 
