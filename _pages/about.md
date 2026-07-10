@@ -121,13 +121,13 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
          style="width: 140px; height: auto;">
   </div>
 
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+ 
 
     <a style="font-size: 18px; font-weight: bold;">
       High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Micro-resonators
     </a>
 
-    <div>
+
       Zhenhua Guo, Sushant Kumar, <strong>Xue Dong</strong>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
     </div>
 
@@ -156,7 +156,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a style="font-size: 18px; font-weight: bold;">
+    <a href="https://arxiv.org/abs/2510.04321" style="font-size: 18px; font-weight: bold;">
       Optical Computing with Spectrally Multiplexed Features in Complex Media
 
     </a>
@@ -192,7 +192,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
          style="width: 140px; height: auto;">
   </div>
 
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+ 
 
     <a style="font-size: 18px; font-weight: bold;">
       Thin film lithium niobate for advanced vision (on going project...)
@@ -202,7 +202,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     <div style="margin-top: 8px;">
     fiber to Thin film lithium niobate packaging
 
-    </div>
+ 
 
   </div>
 
