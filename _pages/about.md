@@ -122,7 +122,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
   </div>
 
  
-  <div  font-size: 16px; line-height: 1.45;">
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
     <a style="font-size: 18px; font-weight: bold;">
       High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Micro-resonators
     </a>
@@ -193,7 +193,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
   </div>
 
  
-
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
     <a style="font-size: 18px; font-weight: bold;">
       Thin film lithium niobate for advanced vision (on going project...)
 
