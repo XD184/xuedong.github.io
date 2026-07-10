@@ -89,6 +89,18 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
     </div>
 
+   <ul style="margin-top: 8px; margin-bottom: 0; padding-left: 20px;">
+    <li style="margin-bottom: 5px;">
+      Demonstrated stretched-pulse solitons in dispersion-managed fiber ring resonators.
+    </li>
+    <li style="margin-bottom: 5px;">
+      The pulses periodically stretch and compress as they propagate through the resonator.
+    </li>
+    <li>
+      Enabled stable operation with shorter pulse durations and higher energies than conventional solitons.
+    </li>
+  </ul>
+
   </div>
 
 </div>
