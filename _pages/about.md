@@ -153,8 +153,12 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
       <em>ArXiv 2025</em>
     </div>
 
+    <div>
+      (<a href="https://arxiv.org/abs/2510.04321">arXiv</a>)
+    </div>
+
     <div style="margin-top: 8px;">
-  Multiwavelength optical computing
+    Multiwavelength optical computing, hardware-based AI accelerator
 
     </div>
 
