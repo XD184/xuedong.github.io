@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I obtained my Ph.D. from the University of Rochester, where I was advised by Professor [William Renninger](https://labsites.rochester.edu/renninger/). My doctoral research focused on novel soliton and frequency-comb generation using <strong>fiber ring resonators</strong>, and we collaborated with Professor [Jaime Cardenas](https://www.cardenaslab.com/) to apply this design to <strong>Si3N4 microresonators</strong> for high-energy frequency-comb generation on chip. After my Ph.D., I spent a year at Laboratoire Kastler Brossel in the Physics Department of École Normale Supérieure, working with Professor [Sylvain Gigan](https://www.lkb.fr/pico/about-the-team/people/sylvain-gigan/) on <strong>optical computing</strong> and hardware-based AI accelerators. During this time, I received the Marie Curie Seal of Excellence Award. I am currently a postdoctoral researcher at the University of California, Berkeley, advised by Professor [Guanghan Meng](https://guanghanmeng.com/) and collaborating with Professor [Mengjie Yu](https://mengjielab.berkeley.edu/). My current research focuses on frequency-comb and femtosecond-pulse generation using <strong>thin-film lithium niobate</strong>, with applications in advanced vision technologies.  
+I obtained my Ph.D. from the University of Rochester, where I was advised by Professor [William Renninger](https://labsites.rochester.edu/renninger/). My doctoral research focused on novel soliton and frequency-comb generation using <strong>fiber ring resonators</strong>, and we collaborated with Professor [Jaime Cardenas](https://www.cardenaslab.com/) to apply this design to <strong>Si3N4 microresonators</strong> for high-energy soliton and frequency-comb generation on chip. After my Ph.D., I spent a year at Laboratoire Kastler Brossel in the Physics Department of École Normale Supérieure, working with Professor [Sylvain Gigan](https://www.lkb.fr/pico/about-the-team/people/sylvain-gigan/) on <strong>optical computing</strong> and hardware-based AI accelerators. During this time, I received the Marie Curie Seal of Excellence Award. I am currently a postdoctoral researcher at the University of California, Berkeley, advised by Professor [Guanghan Meng](https://guanghanmeng.com/) and collaborating with Professor [Mengjie Yu](https://mengjielab.berkeley.edu/). My current research focuses on frequency-comb and femtosecond-pulse generation using <strong>thin-film lithium niobate</strong>, with applications in advanced vision technologies.  
 
 
 
@@ -48,7 +48,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-    We demonstrated stretched-pulse solitons in dispersion-managed fiber Kerr resonators enable shorter pulses than previously achieved in fiber Kerr   resonators. This approach offers a stable and versatile comb source that could support high-capacity optical communications.
+    We demonstrated stretched-pulse solitons in dispersion-managed fiber ring resonators. These pulses periodically stretch and compress as they propagate through the ring resonator, enabling stable operation with shorter pulse durations and higher energies than conventional solitons.
    </div>
 
   </div>
