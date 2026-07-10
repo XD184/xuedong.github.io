@@ -15,7 +15,6 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
 
 
-
 <h2 style="font-size: 24px; font-weight: 400; margin-top: 35px; margin-bottom: 25px;">
   Research highlights
 </h2>
