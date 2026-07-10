@@ -1,10 +1,8 @@
-
-permalink:   - /posts/
-author_profile: true
-redirect_from: 
 ---
-
-
+title: "Posts"
+permalink: /posts/
+author_profile: true
+---
 
 <p>PhD graduation</p>
 
