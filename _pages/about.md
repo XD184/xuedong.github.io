@@ -155,7 +155,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div style="margin-top: 8px;">
-    Multiwavelength optical computing, hardware-based AI accelerator
+    Multiwavelength optical computing provides higher accuracy and tunability than single wavelength optical computing, providing better hardware-based AI accelerator
 
     </div>
 
