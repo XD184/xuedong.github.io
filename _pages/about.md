@@ -171,7 +171,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
     <a style="font-size: 18px; font-weight: bold;">
-      Thin film lithium niobate (on going project...)
+      Thin film lithium niobate for advanced vision (on going project...)
 
     </a>
 
