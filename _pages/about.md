@@ -44,7 +44,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
     <div>
       (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">paper</a>)
-      (<a href="[#](https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/)">in the news</a>)
+      (<a href="https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/">in the news</a>)
     </div>
 
     <div style="margin-top: 8px;">
