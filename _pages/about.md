@@ -44,6 +44,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div>
+      (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">paper</a>)
       (<a href="[#](https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/)">in the news</a>)
     </div>
 
@@ -80,6 +81,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div>
+      (<a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">paper</a>)
       (<a href="https://www.rochester.edu/newscenter/novel-chirped-pulses-defy-conventional-wisdom-484312/">in the news</a>)
       (<a href="https://arxiv.org/abs/1906.12127">arXiv</a>)
     </div>
