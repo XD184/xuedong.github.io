@@ -9,3 +9,10 @@ collection: portfolio
          alt="phd graduation"
          style="width: 140px; height: auto;">
   </div>
+
+
+  <div style="width: 140px; flex-shrink: 0;">
+    <img src="images/fibertochip.jpg"
+         alt="fiber to chip coupling"
+         style="width: 140px; height: auto;">
+  </div>
