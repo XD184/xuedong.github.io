@@ -195,7 +195,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
    <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
     <span style="font-size: 18px; font-weight: bold; color: black; text-decoration: none;">
-      Thin film lithium niobate for advanced vision (on going project...)
+      Generating femtosecond pulse and frequency combs from thin film lithium niobate for AR device (on going project...)
     </span>
 
 
