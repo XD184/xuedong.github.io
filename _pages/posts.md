@@ -4,7 +4,9 @@ permalink: /posts/
 author_profile: true
 ---
 
-<p>PhD graduation</p>
+<p style="font-size: 24px; font-weight: 600;">
+  PhD graduation
+</p>
 
 <div style="margin-bottom: 35px;">
   <img src="phd.jpg"
@@ -12,7 +14,7 @@ author_profile: true
        style="display: block; width: 500px; height: auto;">
 </div>
 
-<p>
+<p  style="font-size: 24px; font-weight: 600;">
   Collaborator meeting:
   <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
     LION project: Large Intelligent Optical Networks
