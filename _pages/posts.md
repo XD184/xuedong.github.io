@@ -33,7 +33,7 @@ author_profile: true
 
 <p style="font-size: 20px; font-weight: 400; margin-bottom: 15px;">
   
-  Move back to U.S. working with Prof. Guanghan Meng and Prof. Mengjie Yu to develop on-chip light source for AR device(July 2025). 
+  Move back to U.S. working with Prof. Guanghan Meng and Prof. Mengjie Yu to develop on-chip light source for AR device (July 2025). 
   
   Fiber to thin film lithium niobate coupling
 </p>
