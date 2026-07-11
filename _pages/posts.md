@@ -4,7 +4,7 @@ permalink: /posts/
 author_profile: true
 ---
 
-<p style="font-size: 22px; font-weight: 600;">
+<p style="font-size: 22px; font-weight: 500;">
   PhD graduation at University of Rochester (March 2024)
 </p>
 
@@ -14,7 +14,7 @@ author_profile: true
        style="display: block; width: 400px; max-width: 100%; height: auto;">
 </div>
 
-<p style="font-size: 22px; font-weight: 600; margin-bottom: 15px;">
+<p style="font-size: 22px; font-weight: 500; margin-bottom: 15px;">
   Move to France working on <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
     LION project: Large Intelligent Optical Networks
   </a>
@@ -31,8 +31,9 @@ author_profile: true
 </div>
 
 
-<p style="font-size: 22px; font-weight: 600; margin-bottom: 15px;">
+<p style="font-size: 22px; font-weight: 500; margin-bottom: 15px;">
   Move back to the states (July 2025). 
+  
   Fiber to thin film lithium niobate coupling
 </p>
 
