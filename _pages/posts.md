@@ -7,7 +7,7 @@ author_profile: true
 <p>PhD graduation</p>
 
 <div style="margin-bottom: 35px;">
-  <img src="images/phd.jpg"
+  <img src="phd.jpg"
        alt="PhD graduation"
        style="display: block; width: 300px; height: auto;">
 </div>
@@ -20,7 +20,7 @@ author_profile: true
 </p>
 
 <div style="margin-bottom: 35px;">
-  <img src="images/LION.jpg"
+  <img src="LION.jpg"
        alt="LION project collaborator meeting"
        style="display: block; width: 300px; height: auto;">
 </div>
