@@ -15,7 +15,7 @@ author_profile: true
 </div>
 
 <p style="font-size: 22px; font-weight: 500; margin-bottom: 15px;">
-  Move to France working on <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
+  Move to France working with Prof. Sylvain Gigan on <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
     LION project: Large Intelligent Optical Networks
   </a>
  
