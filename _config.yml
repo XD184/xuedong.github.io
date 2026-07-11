@@ -28,8 +28,8 @@ author:
   name             : "Xue Dong"
   pronouns         : # example: "she/her"  
   bio              : "Optics; Fiber optics; Photonics"
-  location         : "Berkeley"
-  employer         : "University of California, Berkeley"
+  location         : "Berkeley, CA"
+ # employer         : "University of California, Berkeley"
   uri              : # URL
   email            : "xdong184@berkeley.edu" 
 
