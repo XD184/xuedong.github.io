@@ -9,7 +9,7 @@ author_profile: true
 </p>
 
 <div style="margin-bottom: 35px;">
-  <img src="{{ '/images/phd.jpg' | relative_url }}"
+  <img src="https://xd184.github.io/xuedong.github.io/images/phd.jpg"
        alt="PhD graduation"
        style="display: block; width: 400px; max-width: 100%; height: auto;">
 </div>
@@ -22,7 +22,7 @@ author_profile: true
 </p>
 
 <div style="margin-bottom: 35px;">
-  <img src="{{ '/images/LION.jpg' | relative_url }}"
+  <img src="https://xd184.github.io/xuedong.github.io/images/LION.jpg"
        alt="LION project collaborator meeting"
        style="display: block; width: 400px; max-width: 100%; height: auto;">
 </div>
