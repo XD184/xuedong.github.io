@@ -4,8 +4,8 @@ permalink: /posts/
 author_profile: true
 ---
 
-<p style="font-size: 24px; font-weight: 600;">
-  PhD graduation!
+<p style="font-size: 22px; font-weight: 600;">
+  PhD graduation at University of Rochester
 </p>
 
 <div style="margin-bottom: 35px;">
@@ -14,11 +14,12 @@ author_profile: true
        style="display: block; width: 400px; max-width: 100%; height: auto;">
 </div>
 
-<p style="font-size: 24px; font-weight: 600; margin-bottom: 15px;">
-  Collaborator meeting in France:
-  <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
+<p style="font-size: 22px; font-weight: 600; margin-bottom: 15px;">
+  Move to France working on <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
     LION project: Large Intelligent Optical Networks
   </a>
+  LION Collaborator meeting in France:
+  
 </p>
 
 <div style="margin-bottom: 35px;">
@@ -28,8 +29,9 @@ author_profile: true
 </div>
 
 
-<p style="font-size: 24px; font-weight: 600; margin-bottom: 15px;">
-  Fiber to thin film lithium niobate
+<p style="font-size: 22px; font-weight: 600; margin-bottom: 15px;">
+  Move back to the states. 
+  Fiber to thin film lithium niobate coupling
 </p>
 
 <div style="margin-bottom: 35px;">
