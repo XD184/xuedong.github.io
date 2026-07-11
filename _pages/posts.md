@@ -27,7 +27,7 @@ author_profile: true
 <div style="margin-bottom: 35px;">
   <img src="https://xd184.github.io/xuedong.github.io/images/LION.jpg"
        alt="LION project collaborator meeting"
-       style="display: block; width: 500px; max-width: 100%; height: auto;">
+       style="display: block; width: 600px; max-width: 100%; height: auto;">
 </div>
 
 
