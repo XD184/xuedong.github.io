@@ -9,12 +9,12 @@ author_profile: true
 </p>
 
 <div style="margin-bottom: 35px;">
-  <img src="images/phd.jpg"
+  <img src="{{ '/images/phd.jpg' | relative_url }}"
        alt="PhD graduation"
-       style="display: block; width: 400px; height: auto;">
+       style="display: block; width: 400px; max-width: 100%; height: auto;">
 </div>
 
-<p  style="font-size: 24px; font-weight: 600;">
+<p style="font-size: 24px; font-weight: 600; margin-bottom: 15px;">
   Collaborator meeting:
   <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
     LION project: Large Intelligent Optical Networks
@@ -22,7 +22,7 @@ author_profile: true
 </p>
 
 <div style="margin-bottom: 35px;">
-  <img src="images/LION.jpg"
+  <img src="{{ '/images/LION.jpg' | relative_url }}"
        alt="LION project collaborator meeting"
-       style="display: block; width: 400px; height: auto;">
+       style="display: block; width: 400px; max-width: 100%; height: auto;">
 </div>
