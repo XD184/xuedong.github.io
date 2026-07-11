@@ -15,7 +15,7 @@ author_profile: true
 </div>
 
 <p style="font-size: 24px; font-weight: 600; margin-bottom: 15px;">
-  Collaborator meeting:
+  Collaborator meeting in France:
   <a href="https://www.epfl.ch/labs/lapd/funding/lion-large-intelligent-optical-networks/">
     LION project: Large Intelligent Optical Networks
   </a>
