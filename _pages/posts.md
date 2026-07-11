@@ -9,7 +9,7 @@ author_profile: true
 <div style="margin-bottom: 35px;">
   <img src="phd.jpg"
        alt="PhD graduation"
-       style="display: block; width: 300px; height: auto;">
+       style="display: block; width: 400px; height: auto;">
 </div>
 
 <p>
@@ -22,5 +22,5 @@ author_profile: true
 <div style="margin-bottom: 35px;">
   <img src="LION.jpg"
        alt="LION project collaborator meeting"
-       style="display: block; width: 300px; height: auto;">
+       style="display: block; width: 400px; height: auto;">
 </div>
