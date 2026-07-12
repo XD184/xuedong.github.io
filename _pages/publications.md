@@ -55,6 +55,24 @@ author_profile: true
 
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+ <a href=https://opg.optica.org/ol/abstract.cfm?uri=ol-47-17-4443>
+     120-fs single-pulse generation from stretched-pulse fiber Kerr resonators 
+</a>
+       <div>
+ <strong>Xue Dong</strong>, Zhiqiang Wang, William Renninger. 
+      </div>  
+
+           <div>
+ <em>Optics Letters 2022 </em>  
+      </div>  
+      </div>
+
+</div>
+
 
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
