@@ -30,12 +30,24 @@ author_profile: true
        style="display: block; width: 600px; max-width: 100%; height: auto;">
 </div>
 
+<p style="font-size: 20px; font-weight: 400; margin-bottom: 15px;">
+Attending <a href="https://mlph2024.lakecomoschool.org/"> Machine learning photonics summer program </a> at Italy hosted by Professor Hui Cao, Professor Sylvain Gigan, Professor Sergey Turitsyn, Professor Stefan Wabnitz 
+ 
+  
+</p>
+
+<div style="margin-bottom: 35px;">
+  <img src="https://xd184.github.io/xuedong.github.io/images/MLP.jpg"
+       alt="MLP"
+       style="display: block; width: 600px; max-width: 100%; height: auto;">
+</div>
+
+
+
 
 <p style="font-size: 20px; font-weight: 400; margin-bottom: 15px;">
   
-  Move back to U.S. working with Prof. Guanghan Meng and Prof. Mengjie Yu to develop on-chip light source for AR device (July 2025). 
-  
-  Fiber to thin film lithium niobate coupling
+ Lens fiber to thin film lithium niobate coupling
 </p>
 
 <div style="margin-bottom: 35px;">
