@@ -9,8 +9,8 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">
-      1.Stretched-pulse soliton Kerr resonators
+    1.<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">
+      Stretched-pulse soliton Kerr resonators
     </a>
 
     <div>
@@ -35,8 +35,8 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">
-      2.Chirped dissipative solitons in driven optical resonators
+   2. <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">
+      Chirped dissipative solitons in driven optical resonators
     </a>
 
     <div>
@@ -59,9 +59,9 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
- <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-47-17-4443">
-     3.120-fs single-pulse generation from stretched-pulse fiber Kerr resonators 
-</a>
+3. <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-47-17-4443">
+     120-fs single-pulse generation from stretched-pulse fiber Kerr resonators 
+    </a>
        <div>
  <strong>Xue Dong</strong>, Zhiqiang Wang, William Renninger. 
       </div>  
@@ -78,9 +78,9 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
- <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">
-     4.Chirped-pulsed Kerr solitons in the Lugiato-Lefever equation with spectral filtering 
-</a>
+4. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">
+     Chirped-pulsed Kerr solitons in the Lugiato-Lefever equation with spectral filtering 
+    </a>
        <div>
  <strong>Xue Dong</strong>, Christopher Spiess, Victor Bucklew, William Renninger. 
       </div>  
@@ -96,8 +96,8 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-<a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">
-     5.Design and pulse-formation properties of chirped pulse Kerr solitons
+5. <a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">
+     Design and pulse-formation properties of chirped pulse Kerr solitons
 </a>
        <div>
 <strong>Xue Dong</strong>,  William Renninger.
@@ -117,9 +117,9 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2026-SM3A.5">
-      7.High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Microresonators
-</a>
+6. <a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2026-SM3A.5">
+      High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Microresonators
+  </a>
 
  <div> 
       Zhenhua Guo, Sushant Kumar, <strong>Xue Dong</strong>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
@@ -139,8 +139,8 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://arxiv.org/abs/2510.04321">
-      8.Optical Computing with Spectrally Multiplexed Features in Complex Media
+   7. <a href="https://arxiv.org/abs/2510.04321">
+      Optical Computing with Spectrally Multiplexed Features in Complex Media
 
     </a>
 
@@ -163,8 +163,8 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://pubs.aip.org/aip/apl/article/112/26/263102/35581">
-      8.Effective charge collection area during conductive and photoconductive atomic force microscopy
+   8. <a href="https://pubs.aip.org/aip/apl/article/112/26/263102/35581">
+      Effective charge collection area during conductive and photoconductive atomic force microscopy
 
     </a>
 
@@ -185,8 +185,8 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://arxiv.org/abs/2311.17824">
-      9.Depth-multiplexing spectral domain OCT for full eye length imaging with a single modulation unit
+    9. <a href="https://arxiv.org/abs/2311.17824">
+      Depth-multiplexing spectral domain OCT for full eye length imaging with a single modulation unit
 
     </a>
 
