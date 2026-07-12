@@ -12,8 +12,8 @@ main:
   - title: "About"
     url: https://xd184.github.io/xuedong.github.io//
     
-#  - title: "Publications"
-#    url: /publications/    
+  - title: "Publications"
+   url: /publications/    
     
   - title: "Posts"
     url: /posts/
