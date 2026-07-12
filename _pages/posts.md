@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <p style="font-size: 20px; font-weight: 400;">
-  PhD graduation at University of Rochester (March 2024)
+  PhD graduation at University of Rochester 
 </p>
 
 <div style="margin-bottom: 35px;">
