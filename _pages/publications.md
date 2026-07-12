@@ -59,7 +59,7 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
- <a href=https://opg.optica.org/ol/abstract.cfm?uri=ol-47-17-4443>
+ <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-47-17-4443">
      3.120-fs single-pulse generation from stretched-pulse fiber Kerr resonators 
 </a>
        <div>
@@ -174,6 +174,28 @@ author_profile: true
 
     <div>
       <em>Applied Physics Letters 2018</em>
+    </div>
+
+  </div>
+
+</div>
+
+
+  <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+
+  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+
+    <a href="https://arxiv.org/abs/2311.17824">
+      9.Depth-multiplexing spectral domain OCT for full eye length imaging with a single modulation unit
+
+    </a>
+
+    <div>
+     Guanghan Meng, <strong>Xue Dong</strong>, Andrew Zhang, Fabio Feroldi, Austin Roorda, Laura Waller
+    </div>
+
+    <div>
+      <em>ArXiv 2026</em>
     </div>
 
   </div>
