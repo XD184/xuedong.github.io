@@ -37,7 +37,7 @@ Attending <a href="https://mlph2024.lakecomoschool.org/"> Machine learning photo
 </p>
 
 <div style="margin-bottom: 35px;">
-  <img src="https://xd184.github.io/xuedong.github.io/images/MLP.jpg"
+  <img src="https://xd184.github.io/xuedong.github.io/images/MLP_.jpg"
        alt="MLP"
        style="display: block; width: 600px; max-width: 100%; height: auto;">
 </div>
