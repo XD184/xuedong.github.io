@@ -5,15 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=raPSG7YAAAAJ&hl=en">my Google Scholar profile</a>.</div>
-{% endif %}
-
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902" style="font-size: 18px; font-weight: bold;">
+    <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">
       Stretched-pulse soliton Kerr resonators
     </a>
 
@@ -39,7 +35,7 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861" style="font-size: 18px; font-weight: bold;">
+    <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">
       Chirped dissipative solitons in driven optical resonators
     </a>
 
@@ -103,9 +99,9 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <span style="font-size: 18px; font-weight: bold; color: black; text-decoration: none;">
+<a href=https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2026-SM3A.5>
       High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Microresonators
-    </span>
+</a>
 
  <div> 
       Zhenhua Guo, Sushant Kumar, <strong>Xue Dong</strong>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
@@ -125,7 +121,7 @@ author_profile: true
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://arxiv.org/abs/2510.04321" style="font-size: 18px; font-weight: bold;">
+    <a href="https://arxiv.org/abs/2510.04321">
       Optical Computing with Spectrally Multiplexed Features in Complex Media
 
     </a>
