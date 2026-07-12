@@ -36,7 +36,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     <div>
         <span style="text-decoration: underline; text-underline-offset: 2px;">
     Xue Dong
-  </span>,, Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
+  </span>, Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
     </div>
 
     <div>
@@ -54,7 +54,9 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
       <ul style="margin-top: 8px; margin-bottom: 0; font-size: 14px; padding-left: 20px;">
     <li style="margin-bottom: 5px;">
-      Follow up paper: parameter study "120-fs single-pulse generation from stretched-pulse fiber Kerr resonators" <strong>Xue Dong</strong>, Zhiqiang Wang, William Renninger. <em>Optics letters 2022 </em>   (<a href="https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-17-4443">paper</a>)
+      Follow up paper: parameter study "120-fs single-pulse generation from stretched-pulse fiber Kerr resonators"         <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong
+  </span>, Zhiqiang Wang, William Renninger. <em>Optics letters 2022 </em>   (<a href="https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-17-4443">paper</a>)
     </li>
 
   </ul>
@@ -80,7 +82,9 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </a>
 
     <div>
-      Christopher Spiess, Qian Yang, <strong>Xue Dong</strong>, Victor Bucklew, William Renninger
+      Christopher Spiess, Qian Yang,         <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong
+  </span>, Victor Bucklew, William Renninger
     </div>
 
     <div>
@@ -100,10 +104,14 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
    <ul style="margin-top: 8px; margin-bottom: 0; font-size: 14px; padding-left: 20px;">
     <li style="margin-bottom: 5px;">
-      Follow up paper: parameter study (numerical) "Chirped-pulsed Kerr solitons in the Lugiato-Lefever equation with spectral filtering" <strong>Xue Dong</strong>, Christopher Spiess, Victor Bucklew, William Renninger. <em>Physics Review Research 2021 </em>   (<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">paper</a>)
+      Follow up paper: parameter study (numerical) "Chirped-pulsed Kerr solitons in the Lugiato-Lefever equation with spectral filtering"         <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong
+  </span>, Christopher Spiess, Victor Bucklew, William Renninger. <em>Physics Review Research 2021 </em>   (<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">paper</a>)
     </li>
         <li style="margin-bottom: 5px;">
-      Follow up paper: parameter study (experimental) "Design and pulse-formation properties of chirped pulse Kerr solitons" <strong>Xue Dong</strong>,  William Renninger. <em>JOSA B 2023 </em>  (<a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">paper</a>)
+      Follow up paper: parameter study (experimental) "Design and pulse-formation properties of chirped pulse Kerr solitons"         <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong
+  </span>,  William Renninger. <em>JOSA B 2023 </em>  (<a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">paper</a>)
     </li>
 
   </ul>
@@ -129,7 +137,9 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     
 
  <div> 
-      Zhenhua Guo, Sushant Kumar, <strong>Xue Dong</strong>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
+      Zhenhua Guo, Sushant Kumar,         <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong
+  </span>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
     </div>
 
     <div>
@@ -163,7 +173,9 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </a>
 
     <div>
-     <strong>Xue Dong</strong>, Kai Lion, Fei Xia,Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gian
+             <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong
+  </span>, Kai Lion, Fei Xia, Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gian
     </div>
 
     <div>
