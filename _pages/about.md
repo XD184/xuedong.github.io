@@ -34,7 +34,9 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </a>
 
     <div>
-      <strong>Xue Dong</strong>, Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
+        <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong
+  </span>,, Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
     </div>
 
     <div>
