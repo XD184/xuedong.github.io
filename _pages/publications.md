@@ -215,6 +215,6 @@ resonators,” CLEO, Online (2021) <br>
 7. “Stretched-pulse soliton Kerr resonators,” 
 Fall Industrial Associates, Online (2020) <br>
 8. “Effective Charge Collection Area during 
-Conductive and Photoconductive Atomic Force Microscopy Measurements,” NYSSAPS, Buffalo (2018). 
+Conductive and Photoconductive Atomic Force Microscopy Measurements,” NYSSAPS, Buffalo (2018). <br>
 9.“Macroscopic and Microscopic Study 
-of Perovskite Solar Cells and Films under Humid Conditions,” REU, Binghamton (2017).
+of Perovskite Solar Cells and Films under Humid Conditions,” REU, Binghamton (2017).<br>
