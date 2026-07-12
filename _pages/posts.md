@@ -44,14 +44,3 @@ Attending <a href="https://mlph2024.lakecomoschool.org/"> Machine learning photo
 
 
 
-
-<p style="font-size: 20px; font-weight: 400; margin-bottom: 15px;">
-  
- Lens fiber to thin film lithium niobate coupling
-</p>
-
-<div style="margin-bottom: 35px;">
-  <img src="https://xd184.github.io/xuedong.github.io/images/fibertochip.jpg"
-       alt="fibertochip"
-       style="display: block; width: 400px; max-width: 100%; height: auto;">
-</div>
