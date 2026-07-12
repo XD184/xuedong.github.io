@@ -157,7 +157,7 @@ author_profile: true
     </div>
 
   </div>
-
+  </div>
 
   <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
