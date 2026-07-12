@@ -13,11 +13,10 @@ main:
     url: https://xd184.github.io/xuedong.github.io//
     
   - title: "Publications"
-   url: /publications/    
+    url: /publications/    
     
   - title: "Posts"
     url: /posts/
-        
     
   # - title: "CV"
   #   url: /cv-json/
