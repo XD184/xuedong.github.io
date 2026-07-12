@@ -206,15 +206,21 @@ Scattering in Complex Media SPIE photonics west", San Fransico (2025) <br>
 2. “Femtosecond Chirped-Pulse Kerr Resonator Solitons,” CLEO, San Jose 
 (2023). <br>
 3. “120-fs Pulse Generation and Single-Pulse Trapping of Stretched Pulse Solitons in Fiber Kerr Resonators,” CLEO, San Jose (2022). <br>
+
 4.“120-fs single-pulse generation from stretched-pulse fiber Kerr 
 resonators,” Spring Industrial Associates, Rochester (2022). <br>
+
 5. “Chirped-pulsed Kerr solitons in the Lugiato
 Lefever equation with spectral filtering,” Fall Industrial Associates, Rochester (2021) <br>
+
 6. “Dissipative dynamics of chirped-pulse Kerr 
 resonators,” CLEO, Online (2021) <br>
+
 7. “Stretched-pulse soliton Kerr resonators,” 
 Fall Industrial Associates, Online (2020) <br>
+
 8. “Effective Charge Collection Area during 
 Conductive and Photoconductive Atomic Force Microscopy Measurements,” NYSSAPS, Buffalo (2018). <br>
+
 9.“Macroscopic and Microscopic Study 
 of Perovskite Solar Cells and Films under Humid Conditions,” REU, Binghamton (2017).<br>
