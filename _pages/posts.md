@@ -32,7 +32,6 @@ author_profile: true
 
 <p style="font-size: 20px; font-weight: 400; margin-bottom: 15px;">
 Attending <a href="https://mlph2024.lakecomoschool.org/"> Machine learning photonics summer program </a> at Italy hosted by Professor Hui Cao, Professor Sylvain Gigan, Professor Sergey Turitsyn, Professor Stefan Wabnitz 
- 
   
 </p>
 
