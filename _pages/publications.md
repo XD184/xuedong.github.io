@@ -29,8 +29,6 @@ author_profile: true
 
 </div>
 
-
-
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
@@ -201,4 +199,8 @@ author_profile: true
   </div>
 
 </div>
+
+<h2 style="font-size: 24px; font-weight: 400; margin-top: 50px; margin-bottom: 30px;"> Talks and Posters </h2>
+1. "Optical Additive Kernel Approximation using Broadband 
+Scattering in Complex Media SPIE photonics west", San Fransico (2025) <dr>
 
