@@ -197,8 +197,9 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
 
     <div style="margin-top: 8px;">
-    fiber to Thin film lithium niobate packaging
-
+    -Building Laser scan display using MEMS scanner
+    -Fiber to Thin film lithium niobate packaging
+    -Femtosecond pulse and frequency combs from thin film lithium niobate
  
 
   </div>
