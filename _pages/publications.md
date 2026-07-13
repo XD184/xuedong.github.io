@@ -5,200 +5,198 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+```html
+<ol style="font-size: 16px; line-height: 1.45; padding-left: 25px;">
 
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-    1.<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">
+  <li style="margin-bottom: 35px;">
+    <div>
       Stretched-pulse soliton Kerr resonators
-    </a>
-
-    <div>
-      <strong>Xue Dong</strong>, Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
     </div>
 
     <div>
-      <em>Physics Review Letters 2020</em>
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
     </div>
 
     <div>
-      (<a href="[#](https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/)">in the news</a>)
+      <em>Physical Review Letters, 2020</em>
     </div>
 
-  </div>
+    <div>
+      (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">paper</a>)
+      (<a href="https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/">in the news</a>)
+    </div>
+  </li>
 
-</div>
 
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
-
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-   2. <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">
+  <li style="margin-bottom: 35px;">
+    <div>
       Chirped dissipative solitons in driven optical resonators
-    </a>
-
-    <div>
-      Christopher Spiess, Qian Yang, <strong>Xue Dong</strong>, Victor Bucklew, William Renninger
     </div>
 
     <div>
-      <em>Optica 2021</em>
+      Christopher Spiess, Qian Yang,
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Victor Bucklew, William Renninger
     </div>
 
     <div>
+      <em>Optica, 2021</em>
+    </div>
+
+    <div>
+      (<a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">paper</a>)
       (<a href="https://www.rochester.edu/newscenter/novel-chirped-pulses-defy-conventional-wisdom-484312/">in the news</a>)
     </div>
-
-  </div>
-
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
-
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-3. <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-47-17-4443">
-     120-fs single-pulse generation from stretched-pulse fiber Kerr resonators 
-    </a>
-       <div>
- <strong>Xue Dong</strong>, Zhiqiang Wang, William Renninger. 
-      </div>  
-
-           <div>
- <em>Optics Letters 2022 </em>  
-      </div>  
-      </div>
-
-</div>
+  </li>
 
 
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
-
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-4. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">
-     Chirped-pulsed Kerr solitons in the Lugiato-Lefever equation with spectral filtering 
-    </a>
-       <div>
- <strong>Xue Dong</strong>, Christopher Spiess, Victor Bucklew, William Renninger. 
-      </div>  
-
-           <div>
- <em>Physics Review Research 2021 </em>  
-      </div>  
-      </div>
-
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
-
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-5. <a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">
-     Design and pulse-formation properties of chirped pulse Kerr solitons
-</a>
-       <div>
-<strong>Xue Dong</strong>,  William Renninger.
-      </div>  
-
-           <div>
-  <em>JOSA B 2023 </em> 
-      </div>  
-      </div>
-
-</div>
-    
-
-
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
-
-
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-6. <a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2026-SM3A.5">
-      High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Microresonators
-  </a>
-
- <div> 
-      Zhenhua Guo, Sushant Kumar, <strong>Xue Dong</strong>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William Renninger
+  <li style="margin-bottom: 35px;">
+    <div>
+      120-fs single-pulse generation from stretched-pulse fiber Kerr resonators
     </div>
 
     <div>
-      <em>CLEO 2026</em>
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Zhiqiang Wang, William Renninger
     </div>
 
-  </div>
+    <div>
+      <em>Optics Letters, 2022</em>
+    </div>
 
-</div>
+    <div>
+      (<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-47-17-4443">paper</a>)
+    </div>
+  </li>
 
 
+  <li style="margin-bottom: 35px;">
+    <div>
+      Chirped-pulsed Kerr solitons in the Lugiato–Lefever equation with spectral filtering
+    </div>
 
-<div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
+    <div>
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Christopher Spiess, Victor Bucklew, William Renninger
+    </div>
 
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
+    <div>
+      <em>Physical Review Research, 2021</em>
+    </div>
 
-   7. <a href="https://arxiv.org/abs/2510.04321">
+    <div>
+      (<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">paper</a>)
+    </div>
+  </li>
+
+
+  <li style="margin-bottom: 35px;">
+    <div>
+      Design and pulse-formation properties of chirped-pulse Kerr solitons
+    </div>
+
+    <div>
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      William Renninger
+    </div>
+
+    <div>
+      <em>JOSA B, 2023</em>
+    </div>
+
+    <div>
+      (<a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">paper</a>)
+    </div>
+  </li>
+
+
+  <li style="margin-bottom: 35px;">
+    <div>
+      High-Energy Kerr Soliton Generation in Over-Coupled Si<sub>3</sub>N<sub>4</sub> Microresonators
+    </div>
+
+    <div>
+      Zhenhua Guo, Sushant Kumar,
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux,
+      Jaime Cardenas, William Renninger
+    </div>
+
+    <div>
+      <em>CLEO, 2026</em>
+    </div>
+
+    <div>
+      (<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2026-SM3A.5">paper</a>)
+    </div>
+  </li>
+
+
+  <li style="margin-bottom: 35px;">
+    <div>
       Optical Computing with Spectrally Multiplexed Features in Complex Media
-
-    </a>
-
-    <div>
-     <strong>Xue Dong</strong>, Kai Lion, Fei Xia,Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gian
     </div>
 
     <div>
-      <em>ArXiv 2025</em>
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Kai Lion, Fei Xia, Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gigan
     </div>
 
     <div>
-      (<a href="https://arxiv.org/abs/2510.04321">arXiv</a>)
+      <em>arXiv, 2025</em>
     </div>
 
-  </div>
-  </div>
+    <div>
+      (<a href="https://arxiv.org/abs/2510.04321">paper</a>)
+    </div>
+  </li>
 
-  <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
 
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-   8. <a href="https://pubs.aip.org/aip/apl/article/112/26/263102/35581">
+  <li style="margin-bottom: 35px;">
+    <div>
       Effective charge collection area during conductive and photoconductive atomic force microscopy
-
-    </a>
-
-    <div>
-     Haian Qiu, <strong>Xue Dong</strong>, Jong Hyun Shim, Junghyun Cho, Jeffrey M Mativetsky
     </div>
 
     <div>
-      <em>Applied Physics Letters 2018</em>
-    </div>
-
-  </div>
-
-</div>
-
-
-  <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 35px; position: relative;">
-
-  <div style="flex: 1; font-size: 16px; line-height: 1.45;">
-
-    9. <a href="https://arxiv.org/abs/2311.17824">
-      Depth-multiplexing spectral domain OCT for full eye length imaging with a single modulation unit
-
-    </a>
-
-    <div>
-     Guanghan Meng, <strong>Xue Dong</strong>, Andrew Zhang, Fabio Feroldi, Austin Roorda, Laura Waller
+      Haian Qiu,
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Jong Hyun Shim, Junghyun Cho, Jeffrey M. Mativetsky
     </div>
 
     <div>
-      <em>ArXiv 2026</em>
+      <em>Applied Physics Letters, 2018</em>
     </div>
 
-  </div>
+    <div>
+      (<a href="https://pubs.aip.org/aip/apl/article/112/26/263102/35581">paper</a>)
+    </div>
+  </li>
 
-</div>
+
+  <li style="margin-bottom: 35px;">
+    <div>
+      Depth-multiplexing spectral-domain OCT for full-eye-length imaging with a single modulation unit
+    </div>
+
+    <div>
+      Guanghan Meng,
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Andrew Zhang, Fabio Feroldi, Austin Roorda, Laura Waller
+    </div>
+
+    <div>
+      <em>arXiv, 2026</em>
+    </div>
+
+    <div>
+      (<a href="https://arxiv.org/abs/2311.17824">paper</a>)
+    </div>
+  </li>
+
+</ol>
+```
+
 
 <h2 style="font-size: 24px; font-weight: 400; margin-top: 50px; margin-bottom: 30px;">
   Talks and Posters
