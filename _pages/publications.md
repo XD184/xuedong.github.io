@@ -45,7 +45,6 @@ author_profile: true
     </div>
   </li>
 
-
   <li style="margin-bottom: 35px;">
     <div>
      <strong> 120-fs single-pulse generation from stretched-pulse fiber Kerr resonators</strong>
@@ -124,7 +123,6 @@ author_profile: true
     </div>
   </li>
 
-
   <li style="margin-bottom: 35px;">
     <div>
     <strong>  Optical Computing with Spectrally Multiplexed Features in Complex Media</strong>
@@ -143,7 +141,6 @@ author_profile: true
       (<a href="https://arxiv.org/abs/2510.04321">paper</a>)
     </div>
   </li>
-
 
   <li style="margin-bottom: 35px;">
     <div>
@@ -164,7 +161,6 @@ author_profile: true
       (<a href="https://pubs.aip.org/aip/apl/article/112/26/263102/35581">paper</a>)
     </div>
   </li>
-
 
   <li style="margin-bottom: 35px;">
     <div>
