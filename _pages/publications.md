@@ -1,33 +1,28 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<h2 style="font-size: 24px; font-weight: 400; margin-top: 50px; margin-bottom: 30px;">
+ Publications
+</h2>
 
-```html
-<ol style="font-size: 16px; line-height: 1.45; padding-left: 25px;">
+<ol style="font-size: 16px; line-height: 1.55; padding-left: 25px;">
 
-  <li style="margin-bottom: 35px;">
-    <div>
-      Stretched-pulse soliton Kerr resonators
-    </div>
-
-    <div>
+  <li style="margin-bottom: 10px;">
+    “Stretched-pulse soliton Kerr resonators”
+        <div>
       <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
       Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
     </div>
-
-    <div>
+        <div>
       <em>Physical Review Letters, 2020</em>
     </div>
-
-    <div>
-      (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033902">paper</a>)
-      (<a href="https://www.rochester.edu/newscenter/rochester-versatile-ultrafast-laser-pulse-445912/">in the news</a>)
+        <div>
+      (<a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">paper</a>)
+      (<a href="https://www.rochester.edu/newscenter/novel-chirped-pulses-defy-conventional-wisdom-484312/">in the news</a>)
     </div>
   </li>
-
 
   <li style="margin-bottom: 35px;">
     <div>
@@ -70,7 +65,6 @@ author_profile: true
     </div>
   </li>
 
-
   <li style="margin-bottom: 35px;">
     <div>
       Chirped-pulsed Kerr solitons in the Lugiato–Lefever equation with spectral filtering
@@ -89,8 +83,7 @@ author_profile: true
       (<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033252">paper</a>)
     </div>
   </li>
-
-
+  
   <li style="margin-bottom: 35px;">
     <div>
       Design and pulse-formation properties of chirped-pulse Kerr solitons
@@ -109,7 +102,6 @@ author_profile: true
       (<a href="https://opg.optica.org/josab/fulltext.cfm?uri=josab-40-12-3255">paper</a>)
     </div>
   </li>
-
 
   <li style="margin-bottom: 35px;">
     <div>
@@ -195,7 +187,9 @@ author_profile: true
   </li>
 
 </ol>
-```
+
+
+ 
 
 
 <h2 style="font-size: 24px; font-weight: 400; margin-top: 50px; margin-bottom: 30px;">
