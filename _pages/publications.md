@@ -202,7 +202,7 @@ author_profile: true
 
 <h2 style="font-size: 24px; font-weight: 400; margin-top: 50px; margin-bottom: 30px;"> Talks and Posters </h2>
 1. "Optical Additive Kernel Approximation using Broadband 
-Scattering in Complex Media SPIE photonics west", San Fransico (2025) <br>
+Scattering in Complex Media" SPIE photonics west, San Fransico (2025) <br>
 2. “Femtosecond Chirped-Pulse Kerr Resonator Solitons,” CLEO, San Jose 
 (2023). <br>
 3. “120-fs Pulse Generation and Single-Pulse Trapping of Stretched Pulse Solitons in Fiber Kerr Resonators,” CLEO, San Jose (2022). <br>
