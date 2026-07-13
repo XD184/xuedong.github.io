@@ -200,27 +200,55 @@ author_profile: true
 
 </div>
 
-<h2 style="font-size: 24px; font-weight: 400; margin-top: 50px; margin-bottom: 30px;"> Talks and Posters </h2>
-1. "Optical Additive Kernel Approximation using Broadband 
-Scattering in Complex Media" SPIE photonics west, San Fransico (2025) <br>
-2. “Femtosecond Chirped-Pulse Kerr Resonator Solitons,” CLEO, San Jose 
-(2023). <br>
-3. “120-fs Pulse Generation and Single-Pulse Trapping of Stretched Pulse Solitons in Fiber Kerr Resonators,” CLEO, San Jose (2022). <br>
+<h2 style="font-size: 24px; font-weight: 400; margin-top: 50px; margin-bottom: 30px;">
+  Talks and Posters
+</h2>
 
-4.“120-fs single-pulse generation from stretched-pulse fiber Kerr 
-resonators,” Spring Industrial Associates, Rochester (2022). <br>
+<ol style="font-size: 16px; line-height: 1.55; padding-left: 25px;">
 
-5. “Chirped-pulsed Kerr solitons in the Lugiato
-Lefever equation with spectral filtering,” Fall Industrial Associates, Rochester (2021) <br>
+  <li style="margin-bottom: 10px;">
+    “Optical Additive Kernel Approximation Using Broadband Scattering in Complex Media,”
+    <em>SPIE Photonics West</em>, San Francisco (2025).
+  </li>
 
-6. “Dissipative dynamics of chirped-pulse Kerr 
-resonators,” CLEO, Online (2021) <br>
+  <li style="margin-bottom: 10px;">
+    “Femtosecond Chirped-Pulse Kerr Resonator Solitons,”
+    <em>CLEO</em>, San Jose (2023).
+  </li>
 
-7. “Stretched-pulse soliton Kerr resonators,” 
-Fall Industrial Associates, Online (2020) <br>
+  <li style="margin-bottom: 10px;">
+    “120-fs Pulse Generation and Single-Pulse Trapping of Stretched-Pulse Solitons in Fiber Kerr Resonators,”
+    <em>CLEO</em>, San Jose (2022).
+  </li>
 
-8. “Effective Charge Collection Area during 
-Conductive and Photoconductive Atomic Force Microscopy Measurements,” NYSSAPS, Buffalo (2018). <br>
+  <li style="margin-bottom: 10px;">
+    “120-fs Single-Pulse Generation from Stretched-Pulse Fiber Kerr Resonators,”
+    <em>Spring Industrial Associates</em>, Rochester (2022).
+  </li>
 
-9.“Macroscopic and Microscopic Study 
-of Perovskite Solar Cells and Films under Humid Conditions,” REU, Binghamton (2017).<br>
+  <li style="margin-bottom: 10px;">
+    “Chirped-Pulsed Kerr Solitons in the Lugiato–Lefever Equation with Spectral Filtering,”
+    <em>Fall Industrial Associates</em>, Rochester (2021).
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    “Dissipative Dynamics of Chirped-Pulse Kerr Resonators,”
+    <em>CLEO</em>, online (2021).
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    “Stretched-Pulse Soliton Kerr Resonators,”
+    <em>Fall Industrial Associates</em>, online (2020).
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    “Effective Charge Collection Area during Conductive and Photoconductive Atomic Force Microscopy Measurements,”
+    <em>NYSSAPS</em>, Buffalo (2018).
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    “Macroscopic and Microscopic Study of Perovskite Solar Cells and Films under Humid Conditions,”
+    <em>REU</em>, Binghamton (2017).
+  </li>
+
+</ol>
