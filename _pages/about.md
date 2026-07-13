@@ -174,7 +174,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     <div>
              <span style="text-decoration: underline; text-underline-offset: 2px;">
     Xue Dong,
-  </span> Kai Lion, Fei Xia, Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gian
+  </span> Kai Lion, Fei Xia, Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gigan
     </div>
 
     <div>
