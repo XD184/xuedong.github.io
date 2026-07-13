@@ -48,7 +48,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-     </strong> 120-fs single-pulse generation from stretched-pulse fiber Kerr resonators</strong>
+     <strong> 120-fs single-pulse generation from stretched-pulse fiber Kerr resonators</strong>
     </div>
 
     <div>
@@ -67,7 +67,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-     </strong> Chirped-pulsed Kerr solitons in the Lugiato–Lefever equation with spectral filtering</strong>
+     <strong> Chirped-pulsed Kerr solitons in the Lugiato–Lefever equation with spectral filtering</strong>
     </div>
 
     <div>
@@ -86,7 +86,7 @@ author_profile: true
   
   <li style="margin-bottom: 35px;">
     <div>
-    </strong>  Design and pulse-formation properties of chirped-pulse Kerr solitons</strong>
+    <strong>  Design and pulse-formation properties of chirped-pulse Kerr solitons</strong>
     </div>
 
     <div>
@@ -105,7 +105,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-    </strong>  High-Energy Kerr Soliton Generation in Over-Coupled Si<sub>3</sub>N<sub>4</sub> Microresonators</strong>
+    <strong>  High-Energy Kerr Soliton Generation in Over-Coupled Si<sub>3</sub>N<sub>4</sub> Microresonators</strong>
     </div>
 
     <div>
@@ -127,7 +127,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-    </strong>  Optical Computing with Spectrally Multiplexed Features in Complex Media</strong>
+    <strong>  Optical Computing with Spectrally Multiplexed Features in Complex Media</strong>
     </div>
 
     <div>
@@ -147,7 +147,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-    </strong>  Effective charge collection area during conductive and photoconductive atomic force microscopy</strong>
+    <strong>  Effective charge collection area during conductive and photoconductive atomic force microscopy</strong>
     </div>
 
     <div>
@@ -168,7 +168,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-    </strong>  Depth-multiplexing spectral-domain OCT for full-eye-length imaging with a single modulation unit</strong>
+    <strong>  Depth-multiplexing spectral-domain OCT for full-eye-length imaging with a single modulation unit</strong>
     </div>
 
     <div>
