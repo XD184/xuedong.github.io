@@ -10,7 +10,7 @@ author_profile: true
 <ol style="font-size: 16px; line-height: 1.55; padding-left: 25px;">
 
   <li style="margin-bottom: 10px;">
-    “Stretched-pulse soliton Kerr resonators”
+    <strong>Stretched-pulse soliton Kerr resonators</strong>
         <div>
       <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
       Qian Yang, Christopher Spiess, Victor Bucklew, William Renninger
@@ -26,7 +26,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-      Chirped dissipative solitons in driven optical resonators
+     <strong> Chirped dissipative solitons in driven optical resonators</strong>
     </div>
 
     <div>
@@ -48,7 +48,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-      120-fs single-pulse generation from stretched-pulse fiber Kerr resonators
+     </strong> 120-fs single-pulse generation from stretched-pulse fiber Kerr resonators</strong>
     </div>
 
     <div>
@@ -67,7 +67,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-      Chirped-pulsed Kerr solitons in the Lugiato–Lefever equation with spectral filtering
+     </strong> Chirped-pulsed Kerr solitons in the Lugiato–Lefever equation with spectral filtering</strong>
     </div>
 
     <div>
@@ -86,7 +86,7 @@ author_profile: true
   
   <li style="margin-bottom: 35px;">
     <div>
-      Design and pulse-formation properties of chirped-pulse Kerr solitons
+    </strong>  Design and pulse-formation properties of chirped-pulse Kerr solitons</strong>
     </div>
 
     <div>
@@ -105,7 +105,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-      High-Energy Kerr Soliton Generation in Over-Coupled Si<sub>3</sub>N<sub>4</sub> Microresonators
+    </strong>  High-Energy Kerr Soliton Generation in Over-Coupled Si<sub>3</sub>N<sub>4</sub> Microresonators</strong>
     </div>
 
     <div>
@@ -127,7 +127,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-      Optical Computing with Spectrally Multiplexed Features in Complex Media
+    </strong>  Optical Computing with Spectrally Multiplexed Features in Complex Media</strong>
     </div>
 
     <div>
@@ -147,7 +147,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-      Effective charge collection area during conductive and photoconductive atomic force microscopy
+    </strong>  Effective charge collection area during conductive and photoconductive atomic force microscopy</strong>
     </div>
 
     <div>
@@ -168,7 +168,7 @@ author_profile: true
 
   <li style="margin-bottom: 35px;">
     <div>
-      Depth-multiplexing spectral-domain OCT for full-eye-length imaging with a single modulation unit
+    </strong>  Depth-multiplexing spectral-domain OCT for full-eye-length imaging with a single modulation unit</strong>
     </div>
 
     <div>
