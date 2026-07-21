@@ -182,7 +182,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div>
-      (<a href="https://arxiv.org/abs/2510.04321">arXiv</a>)
+      (<a href="https://arxiv.org/abs/2510.04321">arXiv</a>) (<a href="https://zenodo.org/records/16955073">data and code</a>)
     </div>
 
     <div style="margin-top: 8px;">
