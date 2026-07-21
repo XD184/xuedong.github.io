@@ -44,7 +44,7 @@ author_profile: true
     </div>
 
     <div>
-      (<a href="https://arxiv.org/abs/2510.04321">paper</a>)
+      (<a href="https://arxiv.org/abs/2510.04321">paper</a>) (<a href="https://zenodo.org/records/16955073">data and code</a>)
     </div>
   </li>
 
