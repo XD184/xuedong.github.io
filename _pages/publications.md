@@ -7,7 +7,12 @@ author_profile: true
  Publications
 </h2>
 
+
+
+
 <ol style="font-size: 16px; line-height: 1.55; padding-left: 25px;">
+
+
 
   <li style="margin-bottom: 10px;">
     <strong>Stretched-pulse soliton Kerr resonators</strong>
@@ -21,6 +26,25 @@ author_profile: true
         <div>
       (<a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-6-861">paper</a>)
       (<a href="https://www.rochester.edu/newscenter/novel-chirped-pulses-defy-conventional-wisdom-484312/">in the news</a>)
+    </div>
+  </li>
+
+  <li style="margin-bottom: 35px;">
+    <div>
+    <strong>  Optical Computing with Spectrally Multiplexed Features in Complex Media</strong>
+    </div>
+
+    <div>
+      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
+      Kai Lion, Fei Xia, Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gigan
+    </div>
+
+    <div>
+      <em>arXiv, 2025</em> <em>Optica, 2026 (accepted) </em>
+    </div>
+
+    <div>
+      (<a href="https://arxiv.org/abs/2510.04321">paper</a>)
     </div>
   </li>
 
@@ -123,24 +147,7 @@ author_profile: true
     </div>
   </li>
 
-  <li style="margin-bottom: 35px;">
-    <div>
-    <strong>  Optical Computing with Spectrally Multiplexed Features in Complex Media</strong>
-    </div>
 
-    <div>
-      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
-      Kai Lion, Fei Xia, Yoonseok Beak, Ziao Wang, Niao He, Sylvain Gigan
-    </div>
-
-    <div>
-      <em>arXiv, 2025</em>
-    </div>
-
-    <div>
-      (<a href="https://arxiv.org/abs/2510.04321">paper</a>)
-    </div>
-  </li>
 
   <li style="margin-bottom: 35px;">
     <div>
