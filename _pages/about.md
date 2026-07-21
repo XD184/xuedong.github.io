@@ -178,7 +178,7 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div>
-      <em>ArXiv 2025</em>
+      <em>ArXiv 2025</em>  <em>Optica 2026 (accepted) </em> 
     </div>
 
     <div>
