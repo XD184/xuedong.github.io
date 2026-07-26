@@ -130,8 +130,8 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
 
   <div style="flex: 1; font-size: 16px; line-height: 1.45;">
 
-    <a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2026-SM3A.5" style="font-size: 18px; font-weight: bold;">
-       High-Energy Kerr Soliton Generation in Over-Coupled Si3N4 Microresonators
+    <a href="https://arxiv.org/abs/2607.18611" style="font-size: 18px; font-weight: bold;">
+       High-Energy Microresonator Soliton Generation
     </a>
     
 
@@ -142,9 +142,11 @@ I obtained my Ph.D. from the University of Rochester, where I was advised by Pro
     </div>
 
     <div>
-      <em>CLEO 2026</em>
+      <em>ArXiv 2026</em>
     </div>
-
+    <div>
+      (<a href="https://arxiv.org/abs/2607.18611">arXiv</a>) 
+    </div>
     <div style="margin-top: 8px;">
    We present design guidelines and experimental validatation for high energy Kerr soliton and Kerr comb generation on Si3N4 micro-resonators. 
 
