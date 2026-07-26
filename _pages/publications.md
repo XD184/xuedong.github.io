@@ -146,27 +146,6 @@ author_profile: true
     </div>
   </li>
 
-  <li style="margin-bottom: 35px;">
-    <div>
-    <strong>  High-Energy Kerr Soliton Generation in Over-Coupled Si<sub>3</sub>N<sub>4</sub> Microresonators</strong>
-    </div>
-
-    <div>
-      Zhenhua Guo, Sushant Kumar,
-      <span style="text-decoration: underline; text-underline-offset: 2px;">Xue Dong</span>,
-      Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux,
-      Jaime Cardenas, William Renninger
-    </div>
-
-    <div>
-      <em>CLEO, 2026</em>
-    </div>
-
-    <div>
-      (<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2026-SM3A.5">paper</a>)
-    </div>
-  </li>
-
 
 
   <li style="margin-bottom: 35px;">
