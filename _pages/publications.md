@@ -48,6 +48,26 @@ author_profile: true
     </div>
   </li>
 
+    <li style="margin-bottom: 35px;">
+    <div>
+    <strong> High-Energy Microresonator Soliton Generation </strong>
+    </div>
+
+    <div>
+       Zhenhua Guo, Sushant Kumar,         <span style="text-decoration: underline; text-underline-offset: 2px;">
+    Xue Dong,
+  </span> Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William   Renninger
+    </div>
+
+    <div>
+      <em>arXiv, 2026</em>
+    </div>
+
+    <div>
+      (<a href="https://arxiv.org/abs/2607.18611">arXiv</a>) 
+    </div>
+  </li>
+
   <li style="margin-bottom: 35px;">
     <div>
      <strong> Chirped dissipative solitons in driven optical resonators</strong>
