@@ -18,9 +18,7 @@ author_profile: true
     </div>
 
     <div>
-       Zhenhua Guo, Sushant Kumar,         <span style="text-decoration: underline; text-underline-offset: 2px;">
-    Xue Dong,
-  </span> Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William   Renninger
+       Zhenhua Guo, Sushant Kumar, <span style="text-decoration: underline; text-underline-offset: 2px;"> Xue Dong</span>, Yi Zhang, Jiewei Xiang, Arunima Nauriyal, Junchi Zhang, Elias Veilleux, Jaime Cardenas, William   Renninger
     </div>
 
     <div>
